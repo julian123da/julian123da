@@ -21,17 +21,42 @@
 ---
 
 ### About Me
-Soy un desarrollador de software en formación, enfocado en crear soluciones funcionales y con buen diseño.  
-Me gusta aprender constantemente nuevas tecnologías y aplicarlas en proyectos reales.  
-Disfruto colaborar en equipo, aportar ideas y seguir mejorando mis habilidades día a día.  
-Mi meta es crecer como profesional y aportar a proyectos que generen un impacto positivo.  
+Soy un desarrollador de software en formación, con interés en el desarrollo frontend y el diseño UI/UX.  
+Disfruto trabajar en equipo, aportar soluciones creativas y seguir aprendiendo para crecer como profesional en el mundo de la tecnología.  
+Me gusta aprender constantemente nuevas herramientas y aplicarlas en proyectos reales.  
+Mi meta es seguir mejorando mis habilidades y aportar a proyectos que generen un impacto positivo.  
+
+---
+
+### Projects
+<p align="center">
+  <a href="https://github.com/julian123da/panel-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julian123da&repo=panel-web&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=9370DB" />
+  </a>
+  <a href="https://github.com/julian123da/sistema-academico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julian123da&repo=sistema-academico&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=9370DB" />
+  </a>
+</p>
+
+---
+
+### Currently Learning
+- React.js y Tailwind CSS para el desarrollo de interfaces modernas  
+- Integración de APIs y backend con Node.js  
+- Mejores prácticas de UI/UX para diseño funcional  
+
+---
+
+### Certifications
+- Certificado en Desarrollo Frontend – Talento Tech (2025)  
+- Curso de Bases de Datos con MongoDB – Platzi  
 
 ---
 
 ### Note  
 Estoy siempre abierto a nuevas oportunidades de **colaboración, aprendizaje o empleo**.  
 Si te interesa conectar conmigo, puedes escribirme directamente por **WhatsApp o LinkedIn**.  
- 
+
 ---
 
 ### Connect with me
