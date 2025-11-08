@@ -30,10 +30,13 @@ Mi meta es seguir mejorando mis habilidades y aportar a proyectos que generen un
 
 ### Projects
 <p align="center">
-  <a href="https://github.com/julian123da/panel-web">
+  <a href="https://github.com/julian123da/PROYECTO-JavaScript_AcevedoJulian_WilliamArdila.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julian123da&repo=panel-web&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=9370DB" />
   </a>
-  <a href="https://github.com/julian123da/sistema-academico">
+  <a href="https://github.com/SamuelMogollon/PROYECTO-FILTRO_MogollonSamuel-AcevedoJulian.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=julian123da&repo=sistema-academico&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=9370DB" />
+  </a>
+  <a href="https://github.com/luis-angel-gelvez-delgado/Proyecto_mongoDB2_AcevedoJulian_GelvezLuis.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=julian123da&repo=sistema-academico&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=9370DB" />
   </a>
 </p>
