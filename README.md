@@ -50,12 +50,6 @@ Mi meta es seguir mejorando mis habilidades y aportar a proyectos que generen un
 
 ---
 
-### Certifications
-- Certificado en Desarrollo Frontend – Talento Tech (2025)  
-- Curso de Bases de Datos con MongoDB – Platzi  
-
----
-
 ### Note  
 Estoy siempre abierto a nuevas oportunidades de **colaboración, aprendizaje o empleo**.  
 Si te interesa conectar conmigo, puedes escribirme directamente por **WhatsApp o LinkedIn**.  
